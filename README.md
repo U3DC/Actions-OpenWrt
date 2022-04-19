@@ -3,4 +3,4 @@
 
 1.此项目Fork的是P3TERX项目，项目地址：https://github.com/P3TERX/Actions-OpenWrt
 
-2.修了添加了插件
+2.需要修改俩个地方：diy-part1.sh里面添加feeds源。另一个是config文件，可以本地自己编译生成或者直接用别人的。
