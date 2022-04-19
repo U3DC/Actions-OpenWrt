@@ -1,7 +1,7 @@
 
 ## 说明
 
-使用Github的Actions功能实现OpenWrt的云编译。根本上解决网络、环境配置问题。
+>> 本项目旨在使用Github的Actions功能实现OpenWrt的云编译，根本上解决本地编译的网络、环境配置问题。
 
 1. 自动化用的是P3TERX项目，项目地址：https://github.com/kenzok8/openwrt-packages
 
