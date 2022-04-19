@@ -6,7 +6,7 @@
 > 项目基于Lean的LEDE进行编译。
 ---
 
-1. 自动化用的是P3TERX项目，项目地址：https://github.com/kenzok8/openwrt-packages
+1. 自动化用的是P3TERX项目，项目地址：https://github.com/P3TERX/Actions-OpenWrt
 
   编译的OpenWrt源项目是Lean的LEDE，项目地址：https://github.com/coolsnowwolf/lede
 
